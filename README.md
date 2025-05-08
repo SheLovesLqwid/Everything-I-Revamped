@@ -1,7 +1,3 @@
-Here is your updated, super detailed and expanded README.md for “Everything I Revamped”, with EUP, liveries, MLOs, and server templates removed, and greater detail added to all other sections:
-
-⸻
-
 
 # Everything I Revamped
 
